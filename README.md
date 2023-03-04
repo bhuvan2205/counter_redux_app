@@ -1,5 +1,4 @@
-# counter_redux_app
-Counter App using redux-toolkit  
+Vite & React application to showcase redux-toolkit 
 
 # To install modules and dependencies
 'npm install'
